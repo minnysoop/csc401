@@ -1,0 +1,2 @@
+Looking for duplicates?  In this file there is 
+only ONE, and no duplicate other than that one.
